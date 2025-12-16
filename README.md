@@ -64,7 +64,6 @@ Merhaba! Ben bir siber güvenlik öğrencisiyim. Sadece sistemleri korumakla kal
 | Proje | Açıklama | Teknoloji |
 | :--- | :--- | :--- |
 | **🛡️ GhostChat** | İnternet olmadan çalışabilen, güvenli P2P mobil mesajlaşma uygulaması. | `Flutter` `Dart` `P2P` |
-| **♟️ Strategos** | Satranç tahtası ekran görüntülerini analiz edip hamle öneren AI aracı. | `Python` `OpenCV` `Stockfish` |
 | **🤖 Jarvis** | Kişiselleştirilmiş, gelişmiş yeteneklere sahip yerel AI asistanı. | `Python` `LLM` `Automation` |
 | **🩺 AI Skin Analysis** | Deri yanıklarını ve cilt problemlerini tespit eden derin öğrenme modeli. | `Python` `Deep Learning` |
 
