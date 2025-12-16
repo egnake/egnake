@@ -27,7 +27,7 @@ Merhaba! Ben bir siber güvenlik öğrencisiyim. Sadece sistemleri korumakla kal
 * 🔭 Şu an **Yerel LLM Modelleri (Llama 3.1)** ve **Yapay Zeka Destekli Görüntü Analizi** üzerine çalışıyorum.
 * 🌱 **Flutter** ile güvenli, offline çalışabilen P2P iletişim araçları geliştiriyorum.
 * 🐧 **Linux** tutkunuyum ve kendi Home Lab sunucumu yönetiyorum.
-* ⚡ **Fun fact:** Satranç tahtasını analiz eden AI botları yazmayı severim!
+* ⚡ **Fun fact:** Yapay zeka geliştirme üzerine ilgiliyim.
 
 ---
 
