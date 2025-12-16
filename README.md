@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Egnake 👋</h1>
+  <h1>Hi there, I'm Ege PARLAK 👋</h1>
   <h3>Cybersecurity Student | Software Developer | AI Enthusiast</h3>
 
   <p>
