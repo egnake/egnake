@@ -60,12 +60,15 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 ### 📊 GitHub Analizi
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Egnake Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-  </p>
+  <a href="https://github.com/egnake">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Egnake Stats" />
+  </a>
+  <a href="https://github.com/egnake">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <i>Let's secure the future, one line of code at a time.</i>
+  <br>
+  <i>Let's secure the future, one line of code at a time.</i>
 </div>
