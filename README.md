@@ -47,7 +47,7 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 
 ### 🏆 Öne Çıkan Projeler (Featured Works)
 
-> *Projelerimde temiz kod yapısına ve güvenlik prensiplerine (Security First) öncelik veririm.*
+> *Projelerimde temiz kod yapısına ve güvenlik prensiplerine öncelik veririm.*
 
 | Proje | Tür | Açıklama | Stack |
 | :--- | :--- | :--- | :--- |
