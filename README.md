@@ -1,78 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Ege+Parlak+(egnake);Cybersecurity+Analyst;Red+Team+%7C+Tool+Developer;Secure+by+Design" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=egnake+(Ege+PARLAK);Cybersecurity+Analyst+%7C+Tool+Developer+%7C+Flutter+Architect" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ege-parlak-7b860b332/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:egcaem000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Ege-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/egnake">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who am I?
 
-Merhaba, ben **Ege (egnake)**.  
-Siber güvenliği yalnızca araç kullanımı olarak değil; **kod, mimari ve saldırgan bakış açısı** ile ele alırım.
+**Hi, I’m Ege (egnake)** — Offensive & Defensive hybrid security engineer.  
+I combine **offense mindset** with **secure design principles** and **clean code practices**.  
+I don’t just break systems — I build them **better and safer**.
 
-Bir sistemi test etmekle yetinmem —  
-**nasıl kırıldığını bildiğim için nasıl güvenli inşa edileceğini de bilirim.**
-
----
-
-## 🎯 Focus Areas
-
-- 🛡️ Network & Application Security  
-- ⚔️ Red Team / Offensive Tool Development  
-- 📱 Mobile Security (Flutter)  
-- 🧠 Local LLM & Security Automation  
-- 🐧 Linux, Docker & Home Lab Environments  
+📍 Based in Türkiye  
+🎯 Passion: Threat Hunting, Tool Development, Secure SDLC, Decentralized Apps
 
 ---
 
-## 🧪 Currently Working On
+## 🧠 My Expertise
 
-- Kendi **recon & attack** araçlarımı geliştirme  
-- **Yerel LLM (Llama 3)** tabanlı güvenlik asistanları  
-- Ubuntu Server üzerinde **izole siber güvenlik labı**  
-- Flutter ile **merkeziyetsiz ve şifreli iletişim** çözümleri  
+| Category | Skills |
+|----------|-------|
+| **Core Languages** | Python, Bash, Dart, C++ |
+| **Security Tools** | OSINT, Port Scanners, Recon, Fuzzers |
+| **Mobile & Apps** | Flutter, Secure Mobile Architecture |
+| **AI & Automation** | Local LLM Integration, System Agents |
+| **Infra & Ops** | Linux, Docker, SQL, Home Labs |
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Category | Description |
+|---------|----------|-------------|
+| **Sherlock-OSINT** | OSINT Toolkit | Integrated with Sherlock database for recon reporting |
+| **egenvanter** | Inventory App | SQL-driven inventory management with auth system |
+| **crypto_tracker** | Trading Bot | Python bot performing crypto analysis & prediction |
+| **Egnake_Port_Scanner** | Security Tool | Auth-only port scanning for educational testing |
+| **Egnake_Sms_Spoofer** | Test Tool | Ethical SMS tool with Twilio key mgmt |
+| **Egnake_Card** | Utility | Luhn algorithm based credit card generator |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Offensive & Scripting
+### 🎯 Offensive & Scripting
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF88)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=00FF88)
-![Kali](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kali-linux&logoColor=00FF88)
 
-### Development & Mobile
+### 📱 Development & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=00FF88)
 ![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00FF88)
 
-### Infrastructure
+### 🧱 Infrastructure & Ops
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF88)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF88)
-
----
-
-## 🚀 Projects
-
-| Project | Area | Description |
-|------|------|------------|
-| **SubHunter** | Recon | Multi-threaded subdomain discovery & analysis tool |
-| **Ghost-DirFuzzer** | Web Security | WAF-aware directory & file fuzzing tool |
-| **GhostChat** | Mobile Security | P2P, encrypted, offline-capable messaging |
-| **Jarvis Core** | AI & Automation | Local LLM powered security assistant |
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF88)
 
 ---
 
@@ -91,6 +86,14 @@ Bir sistemi test etmekle yetinmem —
 
 ---
 
+## 🚀 Philosophy
+
+> Secure by Design, Smart by Code
+
+I build systems that are resilient because **I think like both attacker and defender**.
+
+---
+
 <div align="center">
-<i>Attack • Analyze • Secure</i>
+Attack ⚔️ • Analyze 🧠 • Secure 🛡️
 </div>
