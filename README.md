@@ -1,118 +1,73 @@
+
+Şunu dedin:
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Ege+PARLAK;Cybersecurity+Analyst;Flutter+Developer;AI+Enthusiast" alt="Typing SVG" />
+
+  <p align="center">
+     <b>"Secure by Design, Smart by Code."</b><br>
+    Siber güvenlik disiplinini modern yazılım mimarisiyle birleştiriyor, <br>güvenli ve akıllı sistemler inşa ediyorum.
+  </p>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/ege-parlak-7b860b332/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:egcaem000@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/egnake">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
+</div>
+
+---
+
+### 👨‍💻 Hakkımda (About Me)
+
+Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **Defensive (Savunma)** konseptlerini, **Software Development** yeteneklerimle birleştiriyorum. Standart bir güvenlik uzmanından farklı olarak, koruduğum sistemlerin nasıl kodlandığını biliyorum.
+
+* 🛡️ **Odak Alanım:** Uygulama Güvenliği (AppSec), Mobil Güvenlik ve Güvenli Yazılım Geliştirme Lifecycle (SDLC).
+* 🔭 **Şu an:** Yerel **LLM (Llama 3.1)** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
+* 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyor, Docker konteynerleri ile sanal ağlar kuruyorum.
+* ⚡ **Side Hustle:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
+
+---
+
+### 🛠️ Teknoloji Cephaneliği (Arsenal)
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=Ege+PARLAK;Cybersecurity+Analyst;Secure+Software+Developer;Offense+%26+Defense+Mindset;AI+%26+Automation+Enthusiast" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00FF9C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mindset-Red+%26+Blue+Team-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Build-Secure+by+Design-0A0A0A?style=flat-square"/>
-
-<br/><br/>
-
-<b><i>"If you understand how it’s built, you know how to break it — and how to secure it."</i></b>
+| **Core & Scripting** | **Mobile & AI** | **Security & Ops** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> |
 
 </div>
 
 ---
 
-## 🧠 Profil Özeti
+### 🏆 Öne Çıkan Projeler (Featured Works)
 
-Ben **Ege**.  
-Siber güvenliği yalnızca araç kullanımı olarak değil, **mimari ve kod seviyesinde** ele alırım.
+> *Projelerimde temiz kod yapısına ve güvenlik prensiplerine (Security First) öncelik veririm.*
 
-• Saldırganın nasıl düşündüğünü bilmeden savunma yapılamayacağına inanırım  
-• Savunduğum sistemleri **kendim geliştirebilecek** seviyede yazarım  
-• Teori değil, **saha + kod + otomasyon** odaklı çalışırım  
-
-> Güvenlik benim için sonradan eklenen bir katman değil, **tasarımın kendisi**.
-
----
-
-## 🎯 Uzmanlık Alanları
-
-- 🛡️ **Application Security (AppSec)**
-- 📱 **Mobil Güvenlik (Flutter / Android Mantığı)**
-- 🔐 **Secure SDLC & Threat Modeling**
-- 🧠 **Yerel LLM Entegrasyonu (Offline / On-Prem)**
-- 🧪 **Pentest Mindset & Defensive Hardening**
-- 🐧 **Linux, Networking & Home Lab**
+| Proje | Tür | Açıklama | Stack |
+| :--- | :--- | :--- | :--- |
+| **🛡️ GhostChat** | Mobile Security | İnternet ve merkezi sunucu gerektirmeyen, **P2P** ve şifreli çalışan, izlenemez mobil haberleşme aracı. | Flutter Dart Cryptography |
+| **🤖 Jarvis Core** | Automation & AI | Kişisel asistan projesi. Sistem otomasyonu, sesli komut işleme ve **Yerel LLM** entegrasyonu içerir. | Python Llama 3 System APIs |
+| **🩺 AI DermaScan** | Medical AI | Derin öğrenme ile cilt yanıklarını ve lezyonlarını analiz edip sınıflandıran karar destek sistemi. | Python OpenCV TensorFlow |
 
 ---
 
-## 🧪 Aktif Çalışmalar
-
-- 🔭 **Llama 3.x** tabanlı **yerel LLM’leri** siber güvenlik araçlarına entegre etme  
-- 🧱 Docker ile izole **sanal saldırı & savunma lab ortamları**  
-- 📡 Flutter üzerinde **merkeziyetsiz & izlenemez iletişim protokolleri**  
-- 🤖 Güvenlik otomasyonları (log analizi, anomali tespiti, yardımcı agent’lar)
-
----
-
-## ⚔️ Teknoloji & Araç Seti
+### 📊 GitHub Analizi
 
 <div align="center">
-
-### 🧩 Core & Scripting
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnu-bash&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=00FF9C"/>
-
-### 📱 Mobile & AI
-<img src="https://img.shields.io/badge/Flutter-0A0A0A?style=flat-square&logo=flutter&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Dart-0A0A0A?style=flat-square&logo=dart&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=00FF9C"/>
-
-### 🛡️ Security & Ops
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF9C"/>
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Egnake Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  </p>
 </div>
 
----
-
-## 🧬 Öne Çıkan Projeler
-
-| Proje | Alan | Açıklama |
-|------|------|---------|
-| **🛡️ GhostChat** | Mobile Security | İnternet ve merkezi sunucuya ihtiyaç duymayan, **P2P + şifreli**, izlenemez haberleşme uygulaması |
-| **🤖 Jarvis Core** | Automation / AI | Sistem otomasyonu, sesli komutlar ve **yerel LLM** destekli kişisel asistan |
-| **🩺 AI DermaScan** | Medical AI | Görüntü işleme ve derin öğrenme ile lezyon/yanık sınıflandırma sistemi |
-
----
-
-## 📊 GitHub İstatistikleri
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 İletişim
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ege-parlak-7b860b332/">
-<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
-</a>
-
-<a href="mailto:egcaem000@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
-</a>
-
-<a href="https://github.com/egnake">
-<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF9C"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-<i>Attack. Analyze. Secure. Repeat.</i>
+  <i>Let's secure the future, one line of code at a time.</i>
 </div>
