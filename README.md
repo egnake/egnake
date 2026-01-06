@@ -1,99 +1,55 @@
 <div align="center">
+ 
+  <img src="https://i.pinimg.com/originals/f6/65/f6/f665f6511874b5379e4939a7516d0046.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=egnake+(Ege+PARLAK);Cybersecurity+Analyst+%7C+Tool+Developer+%7C+Flutter+Architect" />
+  <br>
+  <a href="https://github.com/egnake">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=30&duration=2500&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=System.override(User+%3D+%22EGNAKE%22);Initiating+Red_Team+Protocols...;Target%3A+Cybersecurity+Excellence;Status%3A+Online+%26+Hunting" alt="Typing SVG" />
+  </a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/ege-parlak-7b860b332/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:egcaem000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Ege-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/egnake">
-  <img src="https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <p align="center">
+    <a href="https://linkedin.com/in/ege-parlak-7b860b332/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+    </a>
+    <a href="mailto:egcaem000@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+    </a>
+    <a href="https://github.com/egnake">
+      <img src="https://img.shields.io/badge/GITHUB-SOURCE-2dba4e?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
+    </a>
+  </p>
 </div>
 
----
+<br>
 
-## 👨‍💻 Who am I?
+```bash
+root@egnake:~/cybersec# ./identify_user.sh
 
-**Hi, I’m Ege (egnake)** — Offensive & Defensive hybrid security engineer.  
-I combine **offense mindset** with **secure design principles** and **clean code practices**.  
-I don’t just break systems — I build them **better and safer**.
+> INITIALIZING SCAN...
+> SUBJECT: Ege Parlak (Codename: EGNAKE)
+> ORIGIN:  Turkey 🇹🇷
+> CLASS:   Cybersecurity Specialist / Tool Developer
+> STATE:   Active - Developing Custom Exploits
 
-📍 Based in Türkiye  
-🎯 Passion: Threat Hunting, Tool Development, Secure SDLC, Decentralized Apps
+[!] WARNING: High aptitude detected in:
+    - Offensive Security (Red Teaming)
+    - Automated Reconnaissance Tools
+    - Mobile Encryption (Flutter/Dart)
+```
+<div align="center"> <h2>⚡ SYSTEM ARCHITECTURE (Tech Stack)</h2> </div>
 
----
+<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,bash,linux,kali,docker,git,flutter,dart,cpp,wireshark,md,vscode%26theme%3Ddark" /> </div>
 
-## 🧠 My Expertise
+<div align="center"> <table> <tr> <td valign="top" width="50%"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Degnake%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26bg_color%3D0d1117%26title_color%3D39ff14%26icon_color%3D39ff14" alt="Egnake Stats" /> </td> <td valign="top" width="50%"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Degnake%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26langs_count%3D6%26bg_color%3D0d1117%26title_color%3D39ff14%26icon_color%3D39ff14" alt="Top Languages" /> </td> </tr> </table>
 
-| Category | Skills |
-|----------|-------|
-| **Core Languages** | Python, Bash, Dart, C++ |
-| **Security Tools** | OSINT, Port Scanners, Recon, Fuzzers |
-| **Mobile & Apps** | Flutter, Secure Mobile Architecture |
-| **AI & Automation** | Local LLM Integration, System Agents |
-| **Infra & Ops** | Linux, Docker, SQL, Home Labs |
+<div align="center"> <h2>🐍 CONTRIBUTION ACTIVITY</h2> <img src="https://www.google.com/search?q=https://github.com/egnake/egnake/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/> </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Category | Description |
-|---------|----------|-------------|
-| **Sherlock-OSINT** | OSINT Toolkit | Integrated with Sherlock database for recon reporting |
-| **egenvanter** | Inventory App | SQL-driven inventory management with auth system |
-| **crypto_tracker** | Trading Bot | Python bot performing crypto analysis & prediction |
-| **Egnake_Port_Scanner** | Security Tool | Auth-only port scanning for educational testing |
-| **Egnake_Sms_Spoofer** | Test Tool | Ethical SMS tool with Twilio key mgmt |
-| **Egnake_Card** | Utility | Luhn algorithm based credit card generator |
-
----
-
-## 🛠️ Tech Stack
-
-### 🎯 Offensive & Scripting
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF88)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=00FF88)
-
-### 📱 Development & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=00FF88)
-![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00FF88)
-
-### 🧱 Infrastructure & Ops
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF88)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF88)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF88)
-
----
-
-## 📊 GitHub Stats
+<div align="center"> <img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dradical%26is_sarcastic%3Dtrue" alt="Random Dev Quote" /> </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Degnake%26style%3Dflat-square%26label%3DSYSTEM%2BVISITORS%26color%3D39ff14" alt="Profile Views" /> </div>
+    - Local LLM Integration
 
-<img src="https://komarev.com/ghpvc/?username=egnake&label=Profile+Views&color=00FF88&style=flat"/>
-
-</div>
-
----
-
-## 🚀 Philosophy
-
-> Secure by Design, Smart by Code
-
-I build systems that are resilient because **I think like both attacker and defender**.
-
----
-
-<div align="center">
-Attack ⚔️ • Analyze 🧠 • Secure 🛡️
-</div>
+root@egnake:~/cybersec# echo "Secure by Design, Lethal by Code."
