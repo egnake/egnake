@@ -1,73 +1,107 @@
-
-Şunu dedin:
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Ege+PARLAK;Cybersecurity+Analyst;Flutter+Developer;AI+Enthusiast" alt="Typing SVG" />
-
-  <p align="center">
-     <b>"Secure by Design, Smart by Code."</b><br>
-    Siber güvenlik disiplinini modern yazılım mimarisiyle birleştiriyor, <br>güvenli ve akıllı sistemler inşa ediyorum.
-  </p>
-
-  <div align="center">
-    <a href="https://www.linkedin.com/in/ege-parlak-7b860b332/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:egcaem000@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/egnake">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </div>
-</div>
-
----
-
-### 👨‍💻 Hakkımda (About Me)
-
-Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **Defensive (Savunma)** konseptlerini, **Software Development** yeteneklerimle birleştiriyorum. Standart bir güvenlik uzmanından farklı olarak, koruduğum sistemlerin nasıl kodlandığını biliyorum.
-
-* 🛡️ **Odak Alanım:** Uygulama Güvenliği (AppSec), Mobil Güvenlik ve Güvenli Yazılım Geliştirme Lifecycle (SDLC).
-* 🔭 **Şu an:** Yerel **LLM (Llama 3.1)** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
-* 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyor, Docker konteynerleri ile sanal ağlar kuruyorum.
-* ⚡ **Side Hustle:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
-
----
-
-### 🛠️ Teknoloji Cephaneliği (Arsenal)
-
 <div align="center">
 
-| **Core & Scripting** | **Mobile & AI** | **Security & Ops** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> |
+<img src="https://media.giphy.com/media/QPp2wX8JsEfnq/giphy.gif" width="100%" height="200" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=System.init(User+%3D+%22EGNAKE%22);Cybersecurity+Analyst;Red+Teamer+%7C+Tool+Developer;Flutter+Architect;Secure+by+Design" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ege-parlak-7b860b332/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:egcaem000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/egnake">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 🏆 Öne Çıkan Projeler (Featured Works)
+## 👨‍💻 terminal@egnake:~$ whoami
 
-> *Projelerimde temiz kod yapısına ve güvenlik prensiplerine (Security First) öncelik veririm.*
+User: **Ege Parlak** (aka **egnake**)  
+Role: **Cybersecurity Researcher & Tool Developer**  
+Location: **Turkey**  
+Status: **Hunting bugs & building tools**  
+Mission: **Secure by Design, Smart by Code**
 
-| Proje | Tür | Açıklama | Stack |
-| :--- | :--- | :--- | :--- |
-| **🛡️ GhostChat** | Mobile Security | İnternet ve merkezi sunucu gerektirmeyen, **P2P** ve şifreli çalışan, izlenemez mobil haberleşme aracı. | Flutter Dart Cryptography |
-| **🤖 Jarvis Core** | Automation & AI | Kişisel asistan projesi. Sistem otomasyonu, sesli komut işleme ve **Yerel LLM** entegrasyonu içerir. | Python Llama 3 System APIs |
-| **🩺 AI DermaScan** | Medical AI | Derin öğrenme ile cilt yanıklarını ve lezyonlarını analiz edip sınıflandıran karar destek sistemi. | Python OpenCV TensorFlow |
+Ben Ege.  
+Siber güvenliği sadece araç kullanımı olarak değil, **kod, mimari ve saldırgan bakış açısıyla** ele alırım.
+
+Bir sistemi yalnızca test etmem.  
+Nasıl kırıldığını bildiğim için **nasıl sağlam kurulacağını da bilirim**.
 
 ---
 
-### 📊 GitHub Analizi
+## 🎯 Odak Alanlarım
+
+- 🛡️ Network & Application Security  
+- ⚔️ Red Team / Offensive Tooling  
+- 📱 Mobile Security (Flutter)  
+- 🧠 Local LLM & Security Automation  
+- 🐧 Linux, Docker, Home Lab  
+
+> Bir sistemi korumanın en iyi yolu, ona bir saldırgan gibi bakabilmektir.
+
+---
+
+## 🧪 Aktif Çalışmalar
+
+- Recon & attack amaçlı **kendi siber güvenlik araçlarım**
+- **Yerel LLM (Llama 3)** tabanlı güvenlik asistanları
+- Ubuntu Server & CasaOS üzerinde **izole siber lab**
+- Flutter ile **merkeziyetsiz, izlenemez** haberleşme sistemleri
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚔️ Offensive & Scripting
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=00FF00)
+![Kali](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kali-linux&logoColor=00FF00)
+
+### 📱 Development & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=00FF00)
+![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+
+### 🧱 Infrastructure & Ops
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00)
+
+---
+
+## 🚀 Deployed Operations
+
+| Proje | Kategori | Açıklama |
+|------|---------|----------|
+| 💀 **SubHunter** | Recon Tool | Multi-threaded subdomain discovery & takeover |
+| 👻 **Ghost-DirFuzzer** | Web Attack | WAF-aware directory & file brute force |
+| 🛡️ **GhostChat** | Mobile Security | P2P, şifreli, internetsiz haberleşme |
+| 🤖 **Jarvis Core** | AI & Automation | Yerel LLM (Llama 3) tabanlı asistan |
+
+---
+
+## 📊 Intelligence Report
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Egnake Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-  </p>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=egnake&style=flat-square&label=PROFILE+VIEWS&color=00FF00" />
+
 </div>
 
+---
+
 <div align="center">
-  <i>Let's secure the future, one line of code at a time.</i>
+Attack • Analyze • Secure • Repeat
 </div>
