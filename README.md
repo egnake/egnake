@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 Hakkımda (About Me)
+### 👨‍💻 Hakkımda
 
 Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **Defensive (Savunma)** konseptlerini, **Software Development** yeteneklerimle birleştiriyorum. Standart bir güvenlik uzmanından farklı olarak, koruduğum sistemlerin nasıl kodlandığını biliyorum.
 
@@ -33,7 +33,7 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 
 ---
 
-### 🛠️ Teknoloji Cephaneliği (Arsenal)
+### 🛠️ Teknoloji Cephaneliği
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 
 ---
 
-### 🏆 Öne Çıkan Projeler (Featured Works)
+### 🏆 Öne Çıkan Projeler
 
 > *Projelerimde temiz kod yapısına ve güvenlik prensiplerine öncelik veririm.*
 
