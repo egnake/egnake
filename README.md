@@ -32,7 +32,7 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 
 ---
 
-### 🛠️ Teknoloji Cephaneliği
+### 🛠️ Sık kullandığım teknolojiler
 
 <div align="center">
 
