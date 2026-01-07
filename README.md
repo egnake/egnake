@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Merhaba,+Ben+Ege+PARLAK;+Bilişim+Güvenliği+Teknolojisi+Öğrencisiyim" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Merhaba,+Ben+Ege+PARLAK;+Bilişim+Güvenliği+Teknolojisi+Öğrencisiyim" alt="Typing SVG" />
   <p align="center">
       <b>"Secure by Design, Smart by Code."</b><br>
     Siber güvenlik disiplinini modern yazılım mimarisiyle birleştiriyor, <br>güvenli ve akıllı sistemler inşa ediyorum.
