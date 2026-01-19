@@ -27,8 +27,8 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 
 * 🛡️ **Odak Alanım:** Uygulama Güvenliği (AppSec), Mobil Güvenlik ve Güvenli Yazılım Geliştirme Lifecycle (SDLC).
 * 🔭 **Şu an:** Yerel **LLM (Llama 3.1)** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
-* 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyor, Docker konteynerleri ile sanal ağlar kuruyorum.
-* ⚡ **Side Hustle:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
+* 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyorum,testler ve denemeler yapıyorum.
+* ⚡ **Yan İşler:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
 
 ---
 
