@@ -26,7 +26,7 @@
 Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **Defensive (Savunma)** konseptlerini, **Software Development** yeteneklerimle birleştiriyorum. Standart bir güvenlik uzmanından farklı olarak, koruduğum sistemlerin nasıl kodlandığını biliyorum.
 
 * 🛡️ **Odak Alanım:** Uygulama Güvenliği (AppSec), Mobil Güvenlik ve Güvenli Yazılım Geliştirme Lifecycle (SDLC).
-* 🔭 **Şu an:** Yerel **LLM (Llama 3.1)** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
+* 🔭 **Şu an:** Yerel **LLM** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
 * 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyorum,testler ve denemeler yapıyorum.
 * ⚡ **Yan İşler:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
 
@@ -51,8 +51,8 @@ Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **De
 | Proje | Tür | Açıklama | Stack |
 | :--- | :--- | :--- | :--- |
 | **🛡️ GhostChat** | `Mobile Security` | İnternet ve merkezi sunucu gerektirmeyen, **P2P** ve şifreli çalışan, izlenemez mobil haberleşme aracı. | `Flutter` `Dart` `Cryptography` |
-| **🤖 Jarvis Core** | `Automation & AI` | Kişisel asistan projesi. Sistem otomasyonu, sesli komut işleme ve **Yerel LLM** entegrasyonu içerir. | `Python` `Llama 3` `System APIs` |
-| **🩺 AI DermaScan** | `Medical AI` | Derin öğrenme ile cilt yanıklarını ve lezyonlarını analiz edip sınıflandıran karar destek sistemi. | `Python` `OpenCV` `TensorFlow` |
+| **🤖 Jarvis** | `Automation & AI` | Kişisel asistan projesi. Sistem otomasyonu, sesli komut işleme ve **Yerel LLM** entegrasyonu içerir. | `Python` `Llama 3` `System APIs` `RAG` |
+| **Yasabase** | `Personal Law AI` | Hukuki süreçlerinizde kişisel 100% veri gizliliği odaklı **Yasabase** Yapay zeka. | `Python` `Llama 3` `Mevzuat` `Law` `RAG` |
 
 ---
 
