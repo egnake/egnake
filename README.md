@@ -50,21 +50,13 @@ Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atla
 ### İstatistikler
 
 <div align="center">
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
-
-<br>
 
 <div align="center">
   <i>Kodun güvenliği, mimarinin temelinden başlar.</i>
