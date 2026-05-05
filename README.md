@@ -47,24 +47,12 @@ Güvenlik zafiyetlerinin kök nedenlerini (root cause) mimari seviyede analiz ed
 ### İstatistikler
 
 <div align="center">
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14&cache_seconds=60" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="195" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egnake&theme=tokyonight" alt="Profile Details" />
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&cache_seconds=60" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <i>Kodun güvenliği, mimarinin temelinden başlar.</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egnake&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
 </div>
 
 <br>
