@@ -50,12 +50,12 @@ Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atla
 ### İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
