@@ -48,7 +48,7 @@ Güvenlik zafiyetlerinin kök nedenlerini (root cause) mimari seviyede analiz ed
 
 <div align="center">
   <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14&cache_seconds=60" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/egnake">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="195" alt="GitHub Streak" />
@@ -57,8 +57,14 @@ Güvenlik zafiyetlerinin kök nedenlerini (root cause) mimari seviyede analiz ed
 <br>
 <div align="center">
   <a href="https://github.com/egnake">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14&cache_seconds=60" alt="Top Languages" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>Kodun güvenliği, mimarinin temelinden başlar.</i>
 </div>
 
 <br>
