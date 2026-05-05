@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ege+Parlak;+Cyber+Security+Researcher;+Secure+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ege+Parlak;+Cyber+Security+Student;+Secure+Software+Developer" alt="Typing SVG" />
   
   <p align="center">
-      <b>"A hacker who builds, a developer who secures."</b><br>
+      <b>Secure by Design, Smart by Code.</b><br>
     Siber güvenlik disiplinini modern yazılım mimarisi ve yerel yapay zeka ile entegre eden, savunma ve saldırı konseptlerine kod seviyesinde hakim bir geliştirici.
   </p>
 
@@ -23,15 +23,15 @@
 
 ### Profil ve Geliştirme Felsefesi
 
-Ufuk Üniversitesi Bilişim Güvenliği Teknolojisi bölümünde eğitimime devam ederken, güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, **güvenli yazılım geliştirme yaşam döngüsü (SDLC)** ve **mimari tasarım** perspektifiyle ele alıyorum. 
+Ufuk Üniversitesi Bilişim Güvenliği Teknolojisi bölümünde eğitimime devam ederken, güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, güvenli yazılım geliştirme yaşam döngüsü (SDLC) ve mimari tasarım perspektifiyle ele alıyorum. 
 
-Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atlatma teknikleri üzerine otomasyonlar (Ghost-WAF) yazıyor, gelişmiş Android cihaz yönetim betikleri (Egasus) ve Command & Control (C2) altyapıları geliştiriyorum. Sistemleri korumak için, öncelikle onları nasıl istismar edebileceğimi kendi yazdığım kodlarla simüle ediyorum.
+Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atlatma teknikleri üzerine otomasyonlar (Ghost-WAF), gelişmiş Android cihaz yönetim betikleri (Egasus) ve Command & Control (C2) altyapıları geliştiriyorum. Sistemleri korumak için, öncelikle onları nasıl istismar edebileceğimi kendi yazdığım kodlarla simüle ediyorum.
 
 **Odak Alanlarım:**
-*   **Offensive Security & Red Teaming:** Özel sızma testi araçları, ağ istihbarat sistemleri (Cyber-OS), web dizin tarayıcıları (Ghost-dir) ve güvenlik duvarı atlatma (WAF bypass) otomasyonları geliştirme.
+*   **Offensive Security & Red Teaming:** Özel sızma testi araçları, ağ istihbarat sistemleri (Cyber-OS), web dizin tarayıcıları (Ghost-dir) ve güvenlik duvarı atlatma otomasyonları geliştirme.
 *   **Secure Software Development:** P2P tabanlı şifreli uçtan uca iletişim protokolleri (Airgap) ve bellek güvenliği prensiplerine uygun mimari inşası.
 *   **Local AI & RAG Mimarisi:** Veri gizliliğinin kritik olduğu alanlarda, bulut bağımsız ve %100 yerel çalışan LLM (Llama 3, Qwen) ve Retrieval-Augmented Generation (RAG) entegrasyonları (Yasabase, Jarvis).
-*   **Sistem Yönetimi & Entegrasyon:** ADB tabanlı Android cihaz yönetimi, terminal üzerinden çalışan gelişmiş sistem araçları, bash betikleri ve kişisel Home Lab sunucu yönetimi.
+*   **Sistem Yönetimi & Entegrasyon:** ADB tabanlı Android cihaz yönetimi, terminal üzerinden çalışan gelişmiş sistem araçları, bash betikleri ve kişisel sunucu yönetimi.
 
 ---
 
@@ -45,8 +45,21 @@ Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atla
 
 </div>
 
+---
+
+### İstatistikler
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true" alt="Ege's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true" alt="Ege's GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
 <br>
 
 <div align="center">
-  <i>"Kodun güvenliği, mimarinin temelinden başlar."</i>
+  <i>Kodun güvenliği, mimarinin temelinden başlar.</i>
 </div>
