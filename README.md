@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ege+Parlak;+Cyber+Security+Student;+Secure+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ege+Parlak;+Cyber+Security+Researcher;+Secure+Software+Developer" alt="Typing SVG" />
   
   <p align="center">
-      <b>Secure by Design, Smart by Code.</b><br>
+      <b>"Secure by Design, Smart by Code."</b><br>
     Siber güvenlik disiplinini modern yazılım mimarisi ve yerel yapay zeka ile entegre eden, savunma ve saldırı konseptlerine kod seviyesinde hakim bir geliştirici.
   </p>
 
@@ -13,9 +13,6 @@
     <a href="mailto:egcaem000@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/egnake">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </div>
 </div>
 
@@ -23,19 +20,19 @@
 
 ### Profil ve Geliştirme Felsefesi
 
-Ufuk Üniversitesi Bilişim Güvenliği Teknolojisi bölümünde eğitimime devam ederken, güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, güvenli yazılım geliştirme yaşam döngüsü (SDLC) ve mimari tasarım perspektifiyle ele alıyorum. 
+Bilişim Güvenliği Teknolojisi alanındaki akademik temellerimi, ileri düzey yazılım geliştirme pratikleriyle birleştiriyorum. Güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, güvenli yazılım geliştirme yaşam döngüsü (SDLC) ve mimari tasarım perspektifiyle ele alıyorum. 
 
-Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atlatma teknikleri üzerine otomasyonlar (Ghost-WAF), gelişmiş Android cihaz yönetim betikleri (Egasus) ve Command & Control (C2) altyapıları geliştiriyorum. Sistemleri korumak için, öncelikle onları nasıl istismar edebileceğimi kendi yazdığım kodlarla simüle ediyorum.
+Güvenlik zafiyetlerinin kök nedenlerini (root cause) mimari seviyede analiz ederek, proaktif savunma stratejileri ve gelişmiş saldırı simülasyonları kurguluyorum. Modern sistemleri güvence altına almanın en etkili yolunun, tehdit aktörlerinin metodolojilerini hücresel düzeyde anlamaktan ve bu vektörleri kod seviyesinde yeniden inşa etmekten geçtiğine inanıyorum. Bu yaklaşımla, zafiyetleri tespit etmekle kalmıyor; otomasyon tabanlı güvenlik mimarileri, gelişmiş komuta kontrol altyapıları ve sistem atlatma (bypass) teknikleri geliştirerek yapıların dayanıklılığını test ediyorum.
 
-**Odak Alanlarım:**
-*   **Offensive Security & Red Teaming:** Özel sızma testi araçları, ağ istihbarat sistemleri (Cyber-OS), web dizin tarayıcıları (Ghost-dir) ve güvenlik duvarı atlatma otomasyonları geliştirme.
-*   **Secure Software Development:** P2P tabanlı şifreli uçtan uca iletişim protokolleri (Airgap) ve bellek güvenliği prensiplerine uygun mimari inşası.
-*   **Local AI & RAG Mimarisi:** Veri gizliliğinin kritik olduğu alanlarda, bulut bağımsız ve %100 yerel çalışan LLM (Llama 3, Qwen) ve Retrieval-Augmented Generation (RAG) entegrasyonları (Yasabase, Jarvis).
-*   **Sistem Yönetimi & Entegrasyon:** ADB tabanlı Android cihaz yönetimi, terminal üzerinden çalışan gelişmiş sistem araçları, bash betikleri ve kişisel sunucu yönetimi.
+**Temel Odak Alanları:**
+*   **Offensive Security & Red Teaming:** Kurumsal ağlara ve web uygulamalarına yönelik gelişmiş sızma testleri, zafiyet analizi ve güvenlik duvarı atlatma metodolojileri.
+*   **Secure Software Development:** Bellek güvenliği prensiplerine uygun, şifrelenmiş uçtan uca iletişim protokolleri ve mimari inşası.
+*   **Local AI & RAG Mimarisi:** Veri gizliliğinin kritik olduğu kapalı ağlarda, bulut bağımsız ve izole çalışan Büyük Dil Modelleri (LLM) ve RAG entegrasyonları.
+*   **Sistem Güvenliği & Entegrasyon:** Gelişmiş betik dilleri ile sistem otomasyonu, Linux/Android ortamlarında çekirdek seviyesi etkileşimler ve altyapı yönetimi.
 
 ---
 
-### Teknoloji Yığını ve Araçlar
+### Teknoloji Yığını ve Geliştirme Ortamı
 
 <div align="center">
 
@@ -50,13 +47,21 @@ Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atla
 ### İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/egnake">
+    <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=tokyonight&hide_border=true&title_color=39FF14&icon_color=39FF14" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/egnake">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egnake&theme=tokyonight&hide_border=true&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="195" alt="GitHub Streak" />
+  </a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/egnake">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=tokyonight&hide_border=true&title_color=39FF14" alt="Top Languages" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
   <i>Kodun güvenliği, mimarinin temelinden başlar.</i>
