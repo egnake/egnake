@@ -20,7 +20,7 @@
 
 ### Profil ve Geliştirme Felsefesi
 
-Bilişim Güvenliği Teknolojisi alanındaki akademik temellerimi, ileri düzey yazılım geliştirme pratikleriyle birleştiriyorum. Güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, güvenli yazılım geliştirme yaşam döngüsü (SDLC) ve mimari tasarım perspektifiyle ele alıyorum. 
+Bilişim Güvenliği Teknolojisi alanındaki akademik temellerimi, yazılım geliştirme pratikleriyle birleştiriyorum. Güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, güvenli yazılım geliştirme yaşam döngüsü (SDLC) ve mimari tasarım perspektifiyle ele alıyorum. 
 
 Güvenlik zafiyetlerinin kök nedenlerini (root cause) mimari seviyede analiz ederek, proaktif savunma stratejileri ve gelişmiş saldırı simülasyonları kurguluyorum. Modern sistemleri güvence altına almanın en etkili yolunun, tehdit aktörlerinin metodolojilerini hücresel düzeyde anlamaktan ve bu vektörleri kod seviyesinde yeniden inşa etmekten geçtiğine inanıyorum. Bu yaklaşımla, zafiyetleri tespit etmekle kalmıyor; otomasyon tabanlı güvenlik mimarileri, gelişmiş komuta kontrol altyapıları ve sistem atlatma (bypass) teknikleri geliştirerek yapıların dayanıklılığını test ediyorum.
 
