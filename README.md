@@ -1,9 +1,9 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Ege+Parlak;+Cyber+Security+Researcher;+Secure+Software+Developer" alt="Typing SVG" />
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Merhaba,+Ben+Ege+PARLAK;+Bilişim+Güvenliği+Teknolojisi+Öğrencisiyim" alt="Typing SVG" />
   <p align="center">
-      <b>"Secure by Design, Smart by Code."</b><br>
-    Siber güvenlik disiplinini modern yazılım mimarisiyle birleştiriyor, <br>güvenli ve akıllı sistemler inşa ediyorum.
+      <b>"A hacker who builds, a developer who secures."</b><br>
+    Siber güvenlik disiplinini modern yazılım mimarisi ve yerel yapay zeka ile entegre eden, savunma ve saldırı konseptlerine kod seviyesinde hakim bir geliştirici.
   </p>
 
   <div align="center">
@@ -21,41 +21,32 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+### Profil ve Geliştirme Felsefesi
 
-Merhaba! Ben Ege. Siber güvenlik dünyasında **Offensive (Saldırı)** ve **Defensive (Savunma)** konseptlerini, **Software Development** yeteneklerimle birleştiriyorum. Standart bir güvenlik uzmanından farklı olarak, koruduğum sistemlerin nasıl kodlandığını biliyorum.
+Ufuk Üniversitesi Bilişim Güvenliği Teknolojisi bölümünde eğitimime devam ederken, güvenlik konseptlerini yalnızca standart araç kullanımıyla değil, **güvenli yazılım geliştirme yaşam döngüsü (SDLC)** ve **mimari tasarım** perspektifiyle ele alıyorum. 
 
-* 🛡️ **Odak Alanım:** Uygulama Güvenliği (AppSec), Mobil Güvenlik ve Güvenli Yazılım Geliştirme Lifecycle (SDLC).
-* 🔭 **Şu an:** Yerel **LLM** modellerini güvenlik araçlarına entegre etmek üzerine çalışıyorum.
-* 🐧 **Saha Dışı:** Kendi **Home Lab** sunucumu yönetiyorum,testler ve denemeler yapıyorum.
-* ⚡ **Yan İşler:** Flutter ile güvenli, izlenemeyen iletişim protokolleri üzerine AR-GE yapıyorum.
+Zafiyetlerin kök nedenlerini analiz ediyor, Web Application Firewall (WAF) atlatma teknikleri üzerine otomasyonlar (Ghost-WAF) yazıyor, gelişmiş Android cihaz yönetim betikleri (Egasus) ve Command & Control (C2) altyapıları geliştiriyorum. Sistemleri korumak için, öncelikle onları nasıl istismar edebileceğimi kendi yazdığım kodlarla simüle ediyorum.
+
+**Odak Alanlarım:**
+*   **Offensive Security & Red Teaming:** Özel sızma testi araçları, ağ istihbarat sistemleri (Cyber-OS), web dizin tarayıcıları (Ghost-dir) ve güvenlik duvarı atlatma (WAF bypass) otomasyonları geliştirme.
+*   **Secure Software Development:** P2P tabanlı şifreli uçtan uca iletişim protokolleri (Airgap) ve bellek güvenliği prensiplerine uygun mimari inşası.
+*   **Local AI & RAG Mimarisi:** Veri gizliliğinin kritik olduğu alanlarda, bulut bağımsız ve %100 yerel çalışan LLM (Llama 3, Qwen) ve Retrieval-Augmented Generation (RAG) entegrasyonları (Yasabase, Jarvis).
+*   **Sistem Yönetimi & Entegrasyon:** ADB tabanlı Android cihaz yönetimi, terminal üzerinden çalışan gelişmiş sistem araçları, bash betikleri ve kişisel Home Lab sunucu yönetimi.
 
 ---
 
-### 🛠️ Sık kullandığım teknolojiler
+### Teknoloji Yığını ve Araçlar
 
 <div align="center">
 
-| **Core & Scripting** | **Mobile & AI** | **Security & Ops** |
+| Core Development | Yapay Zeka & Veri | Güvenlik & Ops |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/Llama_3-0466C8?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Architecture-2B3137?style=flat-square" /> <img src="https://img.shields.io/badge/Stockfish-000000?style=flat-square" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/WAF_Bypass-D32F2F?style=flat-square" /> <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square" /> |
 
 </div>
 
----
+<br>
 
-### 🏆 Öne Çıkan Projeler
-
-> *Projelerimde temiz kod yapısına ve güvenlik prensiplerine öncelik veririm.*
-
-| Proje | Tür | Açıklama | Stack |
-| :--- | :--- | :--- | :--- |
-| **🛡️ GhostChat** | `Mobile Security` | İnternet ve merkezi sunucu gerektirmeyen, **P2P** ve şifreli çalışan, izlenemez mobil haberleşme aracı. | `Flutter` `Dart` `Cryptography` |
-| **🤖 Jarvis** | `Automation & AI` | Kişisel asistan projesi. Sistem otomasyonu, sesli komut işleme ve **Yerel LLM** entegrasyonu içerir. | `Python` `Llama 3` `System APIs` `RAG` |
-| **Yasabase** | `Personal Law AI` | Hukuki süreçlerinizde kişisel 100% veri gizliliği odaklı **Yasabase** Yapay zeka. | `Python` `Llama 3` `Mevzuat` `Law` `RAG` |
-
----
-
-  <br>
-  <i>Let's secure the future, one line of code at a time.</i>
+<div align="center">
+  <i>"Kodun güvenliği, mimarinin temelinden başlar."</i>
 </div>
