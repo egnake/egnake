@@ -99,17 +99,24 @@
 <h3 style="color: #800000;">▨ System Telemetry</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egnake&bg_color=0D1117&color=800000&line=800000&point=E5E4E2&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=egnake&theme=radical&no-frame=true&no-bg=true&margin-w=15&cache_buster=1" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=egnake&theme=dark&hide_border=true&background=0D1117&ring=800000&fire=800000&currStreakNum=E5E4E2&sideNums=E5E4E2&currStreakLabel=800000&sideLabels=800000&dates=E5E4E2" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egnake&bg_color=0D1117&color=800000&line=800000&point=E5E4E2&area=true&hide_border=true&cache_buster=1" alt="Activity Graph" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-  <code style="color: #A3A3A3;">root@egnake:~# exit 0</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&cache_buster=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true&cache_buster=1" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=egnake&theme=dark&hide_border=true&background=0D1117&ring=800000&fire=800000&currStreakNum=E5E4E2&sideNums=E5E4E2&currStreakLabel=800000&sideLabels=800000&dates=E5E4E2&cache_buster=1" alt="GitHub Streak" />
 </div>
