@@ -26,6 +26,7 @@
   <a href="mailto:egcaem000@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=E5E4E2&color=800000" alt="Email" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=egnake&color=800000&style=for-the-badge&label=SYSTEM+INTRUSIONS" alt="Views"/>
 
 </div>
 
@@ -88,7 +89,7 @@
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
       <b>[Spectre & GhostChat]</b><br>
       <sub style="color: #A3A3A3;">Infrastructure Security & P2P Networks</sub><br><br>
-      SSL ve domain analizleri yapan siber güvenlik eklentisi (Spectre) ile TÜBİTAK/Airgap kapsamında geliştirilmiş güvenli, çevrimdışı (offline-first) uçtan uca mesajlaşma ağı (GhostChat).
+      SSL ve domain analizleri yapan siber güvenlik eklentisi (Spectre) ile TÜBİTAK/Airgap kapsamında geliştirilmiş güvenli, çevrimdışı uçtan uca mesajlaşma ağı (GhostChat).
     </td>
   </tr>
 </table>
@@ -98,12 +99,28 @@
 <h3 style="color: #800000;">▨ System Telemetry</h3>
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=egnake&theme=radical&no-bg=true&no-frame=true&title-text-color=800000&stat-color=E5E4E2&text-color=E5E4E2&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=egnake&bg_color=0D1117&color=800000&line=800000&point=E5E4E2&area=true&hide_border=true&title_color=E5E4E2" alt="Activity Graph" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=dark&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=dark&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=egnake&theme=dark&hide_border=true&background=0D1117&ring=800000&fire=800000&currStreakNum=E5E4E2&sideNums=E5E4E2&currStreakLabel=800000&sideLabels=800000&dates=E5E4E2" alt="GitHub Streak" />
 </div>
 
 <br><br>
