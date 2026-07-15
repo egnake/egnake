@@ -15,7 +15,7 @@
   
   <p align="center">
     <b>SECURITY BY DESIGN. OFFENSIVE BY EXECUTION.</b><br><br>
-    Siber güvenlik disiplinini, modern yazılım mimarisi ve donanım ivmeli yerel yapay zeka sistemleriyle entegre eden araştırmacı. Tehdit aktörlerinin metodolojilerini hücresel düzeyde analiz edip, savunma ve saldırı konseptlerini kod seviyesinde yeniden inşa ediyorum.
+    Siber güvenlik disiplinini modern yazılım mimarisi ve donanım ivmeli yerel yapay zeka sistemleriyle entegre eden araştırmacı. Tehdit aktörlerinin metodolojilerini hücresel düzeyde analiz edip, savunma ve saldırı konseptlerini kod seviyesinde yeniden inşa ediyorum.
   </p>
 
   <br>
@@ -38,6 +38,7 @@
       <p><b>Offensive Automation:</b> EDR/WAF bypass metodolojileri, kurumsal ağlara yönelik sızma testleri ve otonom istismar (exploit) geliştirme süreçleri.</p>
       <p><b>C2 & Malware Engineering:</b> Asenkron mimariye sahip, gizlilik (stealth) odaklı Komuta Kontrol yapıları, yetki yükseltme ve bellek seviyesi operasyonlar.</p>
       <p><b>Local AI Infrastructure:</b> Kapalı ağlarda (air-gapped) çalışan izole Büyük Dil Modelleri (Qwen, Llama) ve RAG mimarileri ile otonom zafiyet analizi.</p>
+      <p><b>P2P Networks & Analytics:</b> Veri sızıntılarına karşı dirençli offline haberleşme protokolleri ve SSL/hosting altyapı analiz sistemleri.</p>
     </td>
     <td width="45%" valign="top" style="border: none; padding-left: 20px; border-left: 1px solid #333;">
       <h3 style="color: #800000;">▨ Technology Stack</h3>
@@ -67,20 +68,27 @@
 
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="33%" valign="top" style="border: 1px solid #333; padding: 15px;">
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
       <b>[EgnakeRAT]</b><br>
-      <sub style="color: #A3A3A3;">Android C2 Framework</sub><br><br>
-      Asenkron Python mimarisine ve accessibility sömürüsüne dayanan, gelişmiş yetki yükseltme modüllerine sahip açık kaynaklı Command & Control.
+      <sub style="color: #A3A3A3;">Android Command & Control Framework</sub><br><br>
+      Asenkron Python mimarisine ve accessibility sömürüsüne dayanan, gelişmiş yetki yükseltme modüllerine sahip açık kaynaklı C2 altyapısı.
     </td>
-    <td width="33%" valign="top" style="border: 1px solid #333; padding: 15px;">
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
       <b>[OffSploit]</b><br>
-      <sub style="color: #A3A3A3;">Autonomous Exploit Agent</sub><br><br>
-      Lokal LLM ve vektör veritabanlarını kullanarak Nmap çıktılarını Exploit-DB ile eşleştiren; IDE üzerinden otonom payload yapılandıran sistem.
+      <sub style="color: #A3A3A3;">Autonomous Exploit Automation</sub><br><br>
+      Lokal vektör veritabanlarını kullanarak Nmap tarama çıktılarını çevrimdışı Exploit-DB ile eşleştiren ve IDE agent'ları üzerinden otonom payload yapılandıran sistem.
     </td>
-    <td width="33%" valign="top" style="border: 1px solid #333; padding: 15px;">
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
       <b>[LeakRecon]</b><br>
-      <sub style="color: #A3A3A3;">Asynchronous OSINT</sub><br><br>
-      SOCKS5 Tor proxy üzerinden çalışan, herkese açık veri sızıntılarını yüksek hızda asenkron olarak analiz eden istihbarat toplama framework'ü.
+      <sub style="color: #A3A3A3;">Asynchronous OSINT Framework</sub><br><br>
+      SOCKS5 Tor proxy altyapısı üzerinden çalışan, herkese açık veri sızıntılarını yüksek hızda asenkron olarak analiz eden ve sınıflandıran istihbarat aracı.
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px;">
+      <b>[Spectre & GhostChat]</b><br>
+      <sub style="color: #A3A3A3;">Infrastructure Security & P2P Networks</sub><br><br>
+      SSL ve domain analizleri yapan siber güvenlik eklentisi (Spectre) ile TÜBİTAK/Airgap kapsamında geliştirilmiş güvenli, çevrimdışı (offline-first) uçtan uca mesajlaşma ağı (GhostChat).
     </td>
   </tr>
 </table>
@@ -94,8 +102,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=transparent&title_color=800000&text_color=E5E4E2&icon_color=800000&bg_color=0D1117&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=transparent&title_color=800000&text_color=E5E4E2&icon_color=800000&bg_color=0D1117&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true" alt="Top Languages" />
 </div>
 
 <br><br>
