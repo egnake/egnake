@@ -99,8 +99,8 @@
 <h3 style="color: #800000;">▨ System Telemetry</h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=egnake&theme=radical&no-bg=true&no-frame=true&title-text-color=800000&stat-color=E5E4E2&text-color=E5E4E2&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/egnake">
+    <img src="https://github-profile-trophy.vercel.app/?username=egnake&no-bg=true&no-frame=true&title-text-color=800000&stat-color=E5E4E2&text-color=E5E4E2&v=1" alt="Trophies" />
   </a>
 </div>
 
@@ -113,8 +113,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&theme=dark&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&theme=dark&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=egnake&show_icons=true&bg_color=0D1117&title_color=800000&text_color=E5E4E2&icon_color=800000&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egnake&layout=compact&bg_color=0D1117&title_color=800000&text_color=E5E4E2&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 <br>
