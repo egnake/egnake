@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="200" viewBox="0 0 540 200" role="img" aria-label="ANON: ADVANCED LINUX OPSEC &amp; PRIVACY SUITE">
+  <defs>
+    <radialGradient id="cardGlow_ANON" cx="10%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#090a0f" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .card-bg { transition: all 0.25s ease; }
+      svg:hover .card-bg { stroke: #38bdf8; stroke-opacity: 0.6; fill: #10131d; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+      .tag { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 11px; font-weight: 700; fill: #38bdf8; letter-spacing: 0.8px; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #94a3b8; line-height: 1.4; }
+      .action { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 12px; font-weight: 600; fill: #38bdf8; }
+    </style>
+  </defs>
+
+  <rect class="card-bg" x="1.5" y="1.5" width="537" height="197" rx="16" fill="#0c0e15" stroke="#1f2536" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="537" height="197" rx="16" fill="url(#cardGlow_ANON)"/>
+
+  <g transform="translate(28, 24)">
+    <rect width="44" height="44" rx="10" fill="#141824" stroke="#252d40" stroke-width="1"/>
+    <g transform="translate(10, 10)">
+  <path fill="#38bdf8" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+</g>
+  </g>
+
+  <text x="84" y="38" class="tag">ADVANCED LINUX OPSEC &amp; PRIVACY SUITE</text>
+  <text x="84" y="60" class="title">ANON</text>
+
+  <g transform="translate(495, 28)">
+    <circle cx="12" cy="12" r="14" fill="#141824" stroke="#252d40" stroke-width="1"/>
+    <text x="12" y="17" text-anchor="middle" class="action" font-size="14">↗</text>
+  </g>
+
+  <text x="28" y="98" class="desc">All-in-one operational security &amp; anti-forensics toolkit for Linux and WSL.</text>
+  <text x="28" y="120" class="desc">Transparent Tor routing, MAC spoofing, RAM wiping &amp; anti-MITM defenses.</text>
+
+  <g transform="translate(28, 152)">
+              <rect width="48.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="24.0" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Bash</text>
+            </g><g transform="translate(84.0, 152)">
+              <rect width="100.5" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="50.25" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Tor Network</text>
+            </g><g transform="translate(192.5, 152)">
+              <rect width="123.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="61.5" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Anti-Forensics</text>
+            </g><g transform="translate(323.5, 152)">
+              <rect width="85.5" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="42.75" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">MAC Spoof</text>
+            </g><g transform="translate(417.0, 152)">
+              <rect width="78.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="39.0" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Iptables</text>
+            </g>
+</svg>

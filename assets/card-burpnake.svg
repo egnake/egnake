@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="200" viewBox="0 0 540 200" role="img" aria-label="BurpNake: AUTONOMOUS AI BUG BOUNTY PLATFORM">
+  <defs>
+    <radialGradient id="cardGlow_BurpNake" cx="10%" cy="10%" r="80%">
+      <stop offset="0%" stop-color="#ff2a5f" stop-opacity="0.12"/>
+      <stop offset="60%" stop-color="#ff2a5f" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#090a0f" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .card-bg { transition: all 0.25s ease; }
+      svg:hover .card-bg { stroke: #ff2a5f; stroke-opacity: 0.6; fill: #10131d; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+      .tag { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 11px; font-weight: 700; fill: #ff2a5f; letter-spacing: 0.8px; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #94a3b8; line-height: 1.4; }
+      .action { font-family: 'JetBrains Mono', Consolas, monospace; font-size: 12px; font-weight: 600; fill: #ff2a5f; }
+    </style>
+  </defs>
+
+  <rect class="card-bg" x="1.5" y="1.5" width="537" height="197" rx="16" fill="#0c0e15" stroke="#1f2536" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="537" height="197" rx="16" fill="url(#cardGlow_BurpNake)"/>
+
+  <g transform="translate(28, 24)">
+    <rect width="44" height="44" rx="10" fill="#141824" stroke="#252d40" stroke-width="1"/>
+    <g transform="translate(10, 10)">
+  <path fill="#ff2a5f" d="M12 2a4 4 0 0 0-4 4v1H6a2 2 0 0 0-2 2v2a2 2 0 0 0 1.15 1.82A6 6 0 0 0 5 15.5V17a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3v-1.5a6 6 0 0 0-.15-2.68A2 2 0 0 0 20 11V9a2 2 0 0 0-2-2h-2V6a4 4 0 0 0-4-4zm-2 5V6a2 2 0 1 1 4 0v1h-4zm-4 4h2v2H6v-2zm12 0h2v2h-2v-2zm-9 4h6a4 4 0 0 1-6 0z"/>
+</g>
+  </g>
+
+  <text x="84" y="38" class="tag">AUTONOMOUS AI BUG BOUNTY PLATFORM</text>
+  <text x="84" y="60" class="title">BurpNake</text>
+
+  <g transform="translate(495, 28)">
+    <circle cx="12" cy="12" r="14" fill="#141824" stroke="#252d40" stroke-width="1"/>
+    <text x="12" y="17" text-anchor="middle" class="action" font-size="14">↗</text>
+  </g>
+
+  <text x="28" y="98" class="desc">Intercepts HTTP traffic, performs deep DOM recon &amp; chains vulnerabilities.</text>
+  <text x="28" y="120" class="desc">Generates verified weaponized PoC exploits entirely on its own using AI.</text>
+
+  <g transform="translate(28, 152)">
+              <rect width="108.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="54.0" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Python 3.12+</text>
+            </g><g transform="translate(144.0, 152)">
+              <rect width="70.5" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="35.25" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">FastAPI</text>
+            </g><g transform="translate(222.5, 152)">
+              <rect width="93.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="46.5" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Playwright</text>
+            </g><g transform="translate(323.5, 152)">
+              <rect width="78.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="39.0" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">Auto-PoC</text>
+            </g><g transform="translate(409.5, 152)">
+              <rect width="78.0" height="24" rx="6" fill="#141824" stroke="#252d40" stroke-width="1"/>
+              <text x="39.0" y="16" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" fill="#94a3b8">AI Recon</text>
+            </g>
+</svg>
